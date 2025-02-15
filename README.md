@@ -11,7 +11,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Digital-Clock">
+  <a href="https://github.com/gargujjwal/Vanilla-JS-Digital-Clock">
     <img src="./images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -20,14 +20,14 @@
   <p align="center">
     A responsive digital clock crafted with vanilla JS and Tailwind CSS, providing an accurate and visually appealing timekeeping experience.
     <br />
-    <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Digital-Clock"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/gargujjwal/Vanilla-JS-Digital-Clock"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://ujjwalgarg100204.github.io/Vanilla-JS-Digital-Clock">View Demo</a>
+    <a href="https://gargujjwal.github.io/Vanilla-JS-Digital-Clock">View Demo</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Digital-Clock/issues">Report Bug</a>
+    <a href="https://github.com/gargujjwal/Vanilla-JS-Digital-Clock/issues">Report Bug</a>
     ·
-    <a href="https://github.com/ujjwalgarg100204/Vanilla-JS-Digital-Clock/issues">Request Feature</a>
+    <a href="https://github.com/gargujjwal/Vanilla-JS-Digital-Clock/issues">Request Feature</a>
   </p>
 </div>
 
@@ -62,15 +62,15 @@ A sleek and responsive digital clock created with Vanilla JS and Tailwind CSS. S
 #### Mobile Design
 
 <p align="center">
-	<img src="./images/mobile-view.gif" alt="mobile view" height="500" /> 
+ <img src="./images/mobile-view.gif" alt="mobile view" height="500" />
 </p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Built With
 
--   [![Tailwind][tailwind-shield]][tailwind-url]
--   [![JavaScript][js-sheild]][javascript-url]
+- [![Tailwind][tailwind-shield]][tailwind-url]
+- [![JavaScript][js-sheild]][javascript-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -84,7 +84,8 @@ If you have a suggestion that would make this better, please fork the repo and c
 Don't forget to give the project a star! Thanks again!
 
 1. Fork the Projectgif
- <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
@@ -96,31 +97,29 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Links
 
--   Repo URL: [https://github.com/ujjwalgarg100204/Vanilla-JS-Digital-Clock](https://github.com/ujjwalgarg100204/Vanilla-JS-Digital-Clock)
--   Live Site URL: [https://ujjwalgarg100204.github.io/Vanilla-JS-Digital-Clock](https://ujjwalgarg100204.github.io/Vanilla-JS-Digital-Clock)
+- Repo URL: [https://github.com/gargujjwal/Vanilla-JS-Digital-Clock](https://github.com/gargujjwal/Vanilla-JS-Digital-Clock)
+- Live Site URL: [https://gargujjwal.github.io/Vanilla-JS-Digital-Clock](https://gargujjwal.github.io/Vanilla-JS-Digital-Clock)
 
 <!-- AUTHOR -->
 
 ## Author
 
--   Website - [Ujjwal Garg](https://github.com/ujjwalgarg100204)
--   Instagram - [@ujjwalgarg100204](https://www.instagram.com/ujjwalgarg100204/)
--   Linkedin - [@ujjwalgarg100204](https://www.linkedin.com/in/ujjwal-garg-3a5639243/)
--   Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
+- Website - [Ujjwal Garg](https://github.com/gargujjwal)
+- Instagram - [@gargujjwal](https://www.instagram.com/gargujjwal/)
+- LinkedIn - [@gargujjwal](https://www.linkedin.com/in/gargujjwal04)
+- Twitter -[@UjwalGarg100204](https://twitter.com/UjwalGarg100204)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[stars-shield]: https://img.shields.io/github/stars/ujjwalgarg100204/Vanilla-JS-Digital-Clock.svg?style=for-the-badge
-[stars-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Digital-Clock/stargazers
-[license-shield]: https://img.shields.io/github/license/ujjwalgarg100204/Vanilla-JS-Digital-Clock.svg?style=for-the-badge
-[license-url]: https://github.com/ujjwalgarg100204/Vanilla-JS-Digital-Clock/blob/master/LICENSE.txt
+[stars-shield]: https://img.shields.io/github/stars/gargujjwal/Vanilla-JS-Digital-Clock.svg?style=for-the-badge
+[stars-url]: https://github.com/gargujjwal/Vanilla-JS-Digital-Clock/stargazers
+[license-shield]: https://img.shields.io/github/license/gargujjwal/Vanilla-JS-Digital-Clock.svg?style=for-the-badge
+[license-url]: https://github.com/gargujjwal/Vanilla-JS-Digital-Clock/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://www.linkedin.com/in/ujjwal-garg-3a5639243
-[desktop-view-screenshot]: ./screenshots/desktop-view.png
-[mobile-view-screenshot]: ./screenshots/mobile-view.png
+[linkedin-url]: https://www.linkedin.com/in/gargujjwal04
 [tailwind-shield]: https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white
 [tailwind-url]: https://tailwindcss.com
 [js-sheild]: https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
